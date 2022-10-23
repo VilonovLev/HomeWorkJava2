@@ -1,0 +1,18 @@
+окт. 23, 2022 1:00:04 PM com.company.Main sortAndLog
+INFO: initial array [1, 9, 45, 29, 0, 4]
+окт. 23, 2022 1:00:04 PM com.company.Main sortAndLog
+INFO: [1, 9, 29, 45, 0, 4]
+окт. 23, 2022 1:00:04 PM com.company.Main sortAndLog
+INFO: [1, 9, 29, 0, 45, 4]
+окт. 23, 2022 1:00:04 PM com.company.Main sortAndLog
+INFO: [1, 9, 29, 0, 4, 45]
+окт. 23, 2022 1:00:04 PM com.company.Main sortAndLog
+INFO: [1, 9, 0, 29, 4, 45]
+окт. 23, 2022 1:00:04 PM com.company.Main sortAndLog
+INFO: [1, 9, 0, 4, 29, 45]
+окт. 23, 2022 1:00:04 PM com.company.Main sortAndLog
+INFO: [1, 0, 9, 4, 29, 45]
+окт. 23, 2022 1:00:04 PM com.company.Main sortAndLog
+INFO: [1, 0, 4, 9, 29, 45]
+окт. 23, 2022 1:00:04 PM com.company.Main sortAndLog
+INFO: [0, 1, 4, 9, 29, 45]
